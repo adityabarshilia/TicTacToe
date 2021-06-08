@@ -1,2 +1,2 @@
 # TicTacToe 
-This project makes use of RMP, factory Functions with no global namespace pollution.
+view demo here --> https://adityabarshilia.github.io/TicTacToe/
