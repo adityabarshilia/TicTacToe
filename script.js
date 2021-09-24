@@ -38,6 +38,7 @@ function onClick(e) {
     board[id] = e.target.textContent;
     if (checkWinner()) {
         displayResult(false);
+	return;
     }
     if (isDraw()) {
         displayResult(true);
